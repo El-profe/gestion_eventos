@@ -1,0 +1,18 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependencias y logs
+vendor/
+*.log
+telegram_log.txt
+
+# Respaldos de base de datos con datos reales o volcados temporales
+*.sql.gz
